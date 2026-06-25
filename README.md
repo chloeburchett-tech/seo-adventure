@@ -1,0 +1,2 @@
+# seo-adventure
+SEO game
